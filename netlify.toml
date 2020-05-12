@@ -3,4 +3,4 @@
   command = "yarn run generate"
 
 [build.environment]
-  GISTS_USER = "my-gh-username"
+  GISTS_USER = "mikamboo"
